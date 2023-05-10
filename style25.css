@@ -1,0 +1,25 @@
+body{
+	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('bg25.jpg');
+	background-size: cover;
+	background-position: center;
+}
+img{
+	border-radius: 50%;
+	
+	
+}
+.container input{
+	background: transparent;
+	border-radius: 60px;
+	border: neon;
+	backdrop-filter: blur(10px);
+	height: 70px;
+	width: 200px;
+}
+.container button{
+	background: transparent;
+	cursor: pointer;
+	border-radius: 50%;
+	border: 0;
+	
+}
